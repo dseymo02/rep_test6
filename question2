@@ -1,0 +1,4 @@
+if __name == "__main__":
+	main()
+
+To only run code when this file is the one that is invoked by the python interpreter.

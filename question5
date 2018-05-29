@@ -1,0 +1,3 @@
+a. It means that you have to change it in multiple places which is not efficients
+
+b. this can lead to data conflicts in the future and data types being out of sync.
